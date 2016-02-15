@@ -6,7 +6,7 @@
     "type": "git",
     "url": "git://github.com/sroze/ngInfiniteScroll.git"
   },
-  "main": "build/ng-infinite-scroll.js",
+  "main": "index.js",
   "browser": "build/ng-infinite-scroll.js",
   "scripts": {
     "test": "grunt test:protractor-local"
